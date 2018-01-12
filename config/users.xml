@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <id>1</id>
+        <uname>test</uname>
+        <passwd>e10adc3949ba59abbe56e057f20f883e</passwd>
+        <name>Alice</name>
+    </user>
+    <user>
+        <id>2</id>
+        <uname>admin</uname>
+        <passwd>1c63129ae9db9c60c3e8aa94d3e00495</passwd>
+        <name>Orleven</name>
+    </user>
+    <user>
+        <id>1</id>
+        <uname>user</uname>
+        <passwd>96e79218965eb72c92a549dd5a330112</passwd>
+        <name>Bob</name>
+    </user>
+</users>
